@@ -1,6 +1,7 @@
-# Frontend Mentor - Four card feature section solution
+# Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 
@@ -14,8 +15,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/siyam-eng/four-card-feature-component)
-- Live Site URL: [Add live site URL here](https://siyam-eng.github.io/four-card-feature-component)
+- Solution URL: [Github Link](https://github.com/siyam-eng/testimonials-grid-section.git)
+- Live Site URL: [Live site](https://siyam-eng.github.io/testimonials-grid-section)
 
 ## My process
 
@@ -23,10 +24,10 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
+- CSS Grid, Flexbox
 
 ### What I learned
-Learned and practiced grid basics. Especially, the use of repeat, clamp seemed interesting.  
+Learned to use CSS grid to make custom 2D layouts. 
 ## Author
 
 - Website - [Siyam Ahmed](https://siyamahmed.com)

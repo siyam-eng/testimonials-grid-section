@@ -103,7 +103,7 @@ blockquote{
 .card{
   max-width: 100%;
   min-width: 250px;
-  border-radius: 0.5rem;
+                border-radius: 0.5rem;
 }
 .comment-main{
   font-size: 1em;
